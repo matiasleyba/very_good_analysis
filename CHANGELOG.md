@@ -1,3 +1,9 @@
+## [9.0.1](https://github.com/matiasleyba/very_good_analysis/compare/v9.0.0...v9.0.1) (2025-08-12)
+
+
+### Docs
+
+* update `CONTRIBUTING.md` to explain how to add new lint rules ([#156](https://github.com/matiasleyba/very_good_analysis/issues/156)) ([447051a](https://github.com/matiasleyba/very_good_analysis/commit/447051a324ac232d5f2c0298449631ac87b09ad7))
 
 ## 9.0.0
 
