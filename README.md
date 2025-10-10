@@ -1,4 +1,4 @@
-# Very Good Analysis
+# Very Good Analysiss
 
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
