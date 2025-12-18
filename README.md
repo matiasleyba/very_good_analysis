@@ -119,6 +119,7 @@ Below is a list of rules that are not enabled by default together with the reaso
 | [`unnecessary_final`](https://dart.dev/tools/linter-rules/unnecessary_final) | Incompatible with [prefer_final_locals](https://dart.dev/tools/linter-rules/prefer_final_locals) |
 | [`unsafe_variance`](https://dart.dev/tools/linter-rules/unsafe_variance) | Not specified |
 | [`use_decorated_box`](https://dart.dev/tools/linter-rules/use_decorated_box) | [Has unresolved malfunctions](https://github.com/dart-lang/linter/issues/3286) |
+| [`use_if_null_to_convert_nulls_to_bools`](https://dart.dev/tools/linter-rules/use_if_null_to_convert_nulls_to_bools) | Deprecated |
 <!-- end:excluded_rules_table -->
 
 [analysis_options_yaml]: https://github.com/VeryGoodOpenSource/very_good_analysis/blob/main/lib/analysis_options.10.0.0.yaml
